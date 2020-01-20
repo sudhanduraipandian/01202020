@@ -2,8 +2,9 @@
 ## wordpress on aws ec2
 
 ### Step 1:
-First things first: you need to create your AWS account. To create a AWS account, follow the link given below.
+You need to create your AWS account. To create a AWS account, follow the link given below:
 https://portal.aws.amazon.com/billing/signup?redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start
+
 You’ll have to provide a credit card and a phone number where you will be called as part of the online registration process for verification purposes. Amazon offers a Free Usage Tier, which is great to explore the services and even host real apps without being charged. After creating the aws account, login to AWS Management console and select EC2 from the compute services.
 
 ### Step 2:
